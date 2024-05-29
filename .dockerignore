@@ -1,0 +1,13 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+newsapi/__pycache__/
+news/__pycache__/
+.env/
+.venv/
+venv/
