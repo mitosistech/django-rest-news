@@ -6,8 +6,10 @@
 .docker
 
 # Python
-newsapi/__pycache__/
-news/__pycache__/
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
 .env/
 .venv/
 venv/
